@@ -78,6 +78,7 @@ Assignment
 <img src="https://i.imgur.com/cAn9Uxs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
+
 Resolving Tickets
   - Open Ticket: This ticket would still need to be worked on and should be taken care of depending on priority and SLA.
   - Closed Ticket: This ticket was worked on but may need follow-up or was resolved only left in closed status in the case that it could reoccur. 
